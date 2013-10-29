@@ -1,5 +1,6 @@
 require "algos/version"
+require "algos/string_algo"
 
 module Algos
-  # Your code goes here...
+  
 end
